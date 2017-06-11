@@ -1,0 +1,30 @@
+{
+  "name": "net-ease-music-server",
+  "version": "1.0.0",
+  "description": "netease-music-server for the remote store and the local store of app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilongllong/net-ease-music-server.git"
+  },
+  "keywords": [
+    "node.js",
+    "db",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilongllong/net-ease-music-server/issues"
+  },
+  "homepage": "https://github.com/lilongllong/net-ease-music-server#readme",
+  "devDependencies": {
+    "express": "^4.15.3"
+  },
+  "dependencies": {
+    "mongodb": "^2.2.28"
+  }
+}
